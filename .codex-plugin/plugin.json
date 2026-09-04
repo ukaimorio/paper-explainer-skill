@@ -1,0 +1,18 @@
+{
+  "name": "paper-explainer-skill",
+  "version": "0.1.0",
+  "description": "Paper Explainer Skill plugin",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Paper Explainer Skill",
+    "shortDescription": "Use Paper Explainer Skill in Codex.",
+    "longDescription": "Paper Explainer Skill adds a local Codex plugin scaffold.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Paper Explainer Skill."
+  }
+}
